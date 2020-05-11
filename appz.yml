@@ -39,4 +39,4 @@ properties:
     vault: GRAFANA_PASSWORD
   LB_TYPE: internal 
   LB_ENABLED: true
-  revision : 45
+  revision : 46
