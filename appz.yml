@@ -33,10 +33,6 @@ properties:
   APP_INSTANCE_NAME: telemetry-prom-v1
   STORAGECLASS_NAME: gp2
   COMMON_REGISTRY: quincy2019-registry-common.ecloudcontrol.com
-  EKS_REGION: us-east
-  EKS_ZONES: us-east-2b
   GRAFANA_PASSWORD:
     vault: GRAFANA_PASSWORD
-  LB_TYPE: internal 
-  LB_ENABLED: true
   revision : 46
