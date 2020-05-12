@@ -35,4 +35,4 @@ properties:
   COMMON_REGISTRY: quincy2019-registry-common.ecloudcontrol.com
   GRAFANA_PASSWORD:
     vault: GRAFANA_PASSWORD
-  revision : 46
+  revision : 47
