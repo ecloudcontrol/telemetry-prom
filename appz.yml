@@ -39,4 +39,4 @@ properties:
   GRAFANA_PASSWORD:
     vault: GRAFANA_PASSWORD
   APPZ_TEARDOWN_TOKEN: 20200518-1510
-  revision : 49
+  revision : 50
